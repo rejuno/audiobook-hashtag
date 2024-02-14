@@ -18,6 +18,7 @@ Projeto Audiobook realizado no "Intensivão JavaScript" da HashTag Treinamentos.
 
 Acesse o site pronto neste link [aqui](https://rejuno.github.io/audiobook-hashtag/)!
 
+![audiobookimg](https://github.com/rejuno/audiobook-hashtag/assets/98842524/283969c6-d2fb-48a2-a5a2-6d2966df8df4)
 
 
 ## 🎁 Expressões de gratidão
